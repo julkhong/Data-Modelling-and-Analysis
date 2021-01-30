@@ -12,7 +12,7 @@ No particular code style. But I do follow indentation code style.
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/70477671/106349550-a7712e00-6309-11eb-906e-9ff7a9c5643e.png" width="700" height="490">
 <img src="https://user-images.githubusercontent.com/70477671/106349551-a8a25b00-6309-11eb-9ac8-84a995d1cfe9.png" width="700" height="490">
-<img src="https://user-images.githubusercontent.com/70477671/106349552-a93af180-6309-11eb-8e13-55f4469b9e6e.png" width="700" height="690">
+<img src="https://user-images.githubusercontent.com/70477671/106349552-a93af180-6309-11eb-8e13-55f4469b9e6e.png" width="700" height="790">
 
 
 
